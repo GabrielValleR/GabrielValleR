@@ -1,6 +1,6 @@
 ### Olá !!  Eu sou o Gabriel Valle!
 
-- 💍 Casado a 8 anos
+- 💍 Casado a 5 anos
 - 🔭 Hoje Trabalho com Front-End
 - ⚡ Curso Engenharia Elétrica 
 - 🌱 Estudo Para ser Dev Full Stack
