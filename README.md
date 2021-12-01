@@ -7,7 +7,7 @@
 - 🌱 Estudo Para ser Dev Full Stack
 - 📚 Estudando Ingles
 
-<div align="center">
+<div align="center" style="display: inline_block">
   <a href="https://github.com/GabrielValleR">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielValleR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielValleR&layout=compact&langs_count=7&theme=dracula"/>
