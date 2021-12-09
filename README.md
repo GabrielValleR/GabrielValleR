@@ -1,6 +1,5 @@
 ### Olá !!  Eu sou o Gabriel Valle!
 
-- 😅 peço paciencia pois os meus repositorios estão sendo atualizados, alguns não estão funcionando porque estavam em pastas diferentes e movi para uma central. Já já Ajeito tudo! 😋
 - 💍 Casado a 5 anos
 - 🔭 Hoje Trabalho com Front-End
 - ⚡ Curso Engenharia Elétrica 
