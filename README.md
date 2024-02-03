@@ -3,7 +3,7 @@
 - 💍 Casado a 7 anos
 - 🔭 Hoje Trabalho com Front-End
 - ⚡ Curso Engenharia de Software
-- 🌱 Estudo Para ser Dev Full Stack
+- 🧑🏽‍💻 Front-end
 - 📚 Estudando Ingles
 
 <div align="center">
